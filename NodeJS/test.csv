@@ -1,0 +1,4 @@
+Year,Industry_aggregation_NZSIOC,Industry_code_NZSIOC,Industry_name_NZSIOC,Units,Variable_code,Variable_name,Variable_category,Value,Industry_code_ANZSIC06
+2017,Level 3,EE13,Construction Services,Percentage,H39,Return on equity,Financial ratios,44,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2017,Level 3,EE13,Construction Services,Percentage,H40,Return on total assets,Financial ratios,14,"ANZSIC06 groups E321, E322, E323, E324, and E329"
+2017,Level 3,EE13,Construction Services,Percentage,H41,Liabilities structure,Financial ratios,32,"ANZSIC06 groups E321, E322, E323, E324, and E329"
